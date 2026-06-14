@@ -42,7 +42,7 @@ O TaskManager permite criar, visualizar, editar e excluir tarefas, com integraç
 
 ### Frontend (Mobile)
 - [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/) (SDK 53)
+- [Expo](https://expo.dev/) (SDK 56)
 - [React Navigation](https://reactnavigation.org/) — navegação entre telas
 - [Axios](https://axios-http.com/) — requisições HTTP
 - [@react-native-community/datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker) — seletor de data nativo
@@ -160,12 +160,4 @@ config.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"
 
 ---
 
-## 👨‍💻 Autor
 
-**Nathan** — Estudante de Sistemas de Informação, Goiás.
-
----
-
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins acadêmicos.
